@@ -14,3 +14,7 @@ K-means 用于图像压缩
 * 效果图 K=3 iterator=10
 ![image](https://github.com/donser/K_means_ImageCluster/blob/master/AgricultureHeart_EN-AU11072776280_1920x1080.jpg)
 ![image](https://github.com/donser/K_means_ImageCluster/blob/master/AgricultureHeart_EN-AU11072776280_1920x1080_3classes.jpg)
+
+* 效果图 K=6 iterator=10
+![image](https://github.com/donser/K_means_ImageCluster/blob/master/WoodDucks_ZH-CN11650397660_1920x1080.jpg)
+![image](https://github.com/donser/K_means_ImageCluster/blob/master/WoodDucks_ZH-CN11650397660_1920x1080_6classes.jpg)
